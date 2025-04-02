@@ -1,8 +1,9 @@
 ---
-title: Mago
-date: 2025-04-10 20:00:00 -500
+layout: post
+title: "Mago"
+date: 2025-04-02 12:00:00 +0000
 categories: [Bla, Blabla]
-tags: [Blaaa]     # TAG names should always be lowercase
+tags: [blaaa]  # TAG names deben estar en minúsculas
 ---
 
 # Título 1
